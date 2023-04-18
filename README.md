@@ -1,17 +1,17 @@
-# Introduction to Computer Science
+# Introduction to Computer Science 💻
 
 Welcome to the "Introduction to Computer Science" repository! This repository contains all the materials from the introductory CS course at NYU Abu Dhabi.
 
-## Course Overview
+## Course Overview 🖲️
 
 This course is designed to provide an introduction to computer science and programming concepts. Throughout the course, we cover a wide range of topics, including:
 
-- Programming in Python
+- Programming in Python 
 - Data structures and basic algorithms
 - Object-oriented programming
 
 
-## Repository Contents
+## Repository Contents 👾
 
 In this repository, you will find:
 
@@ -20,13 +20,13 @@ In this repository, you will find:
 - Practice exercises
 - Project descriptions
 
-## Disclaimer
+## Disclaimer 💿
 
 Please note that I did not create this course or the materials in this repository. Rather, this is what I learned and coded by myself throughout the course. Please do not copy anything from here without permission.
 
-## Contact
+## Contact 📱
 
-If you have any questions or concerns about this repository or the course itself, please feel free to contact me at [your email address]. I would be more than happy to help you out.
+If you have any questions or concerns about this repository or the course itself, please feel free to contact me. I would be more than happy to help you out.
 
 Happy learning!
 
